@@ -60,10 +60,12 @@ _General outline_
 
 Every class, except for the first, begins with a 5-to-10-minute quiz covering the previous session's material and mandatory readings. 
 
-The first two classes introduce core social science concepts, with hands-on exercises designed to train students in formulating research questions and translating everyday observations into social science research. Following these foundations, ten classes are dedicated to five major social science debates, illustrated with concrete social objects. Each debate spans two sessions: Session 1 features a lecture introducing the topic with examples and exercises, while Session 2 is a workshop built around a student presentation and collective deliberation, from which every student writes a short report. Finally, the last session is dedicated to students presenting their final essays.
+The first two classes introduce core social science concepts, with hands-on exercises designed to train students in formulating research questions and translating everyday observations into social science research. Following these foundations, ten classes are dedicated to five major social science debates, illustrated with concrete social objects. Each debate spans two sessions: a first session features a lecture introducing the topic with examples and exercises, while later one a second session is a workshop built around student presentations followed by collective deliberation, from which every student writes a short report. Finally, the last session is dedicated to students presenting their final essays.
 
 
 ### Weekly schedule
+
+##### Part 1: Introduction to social science
 
 _Week 1: What do social scientists do? (1)_
 
@@ -81,51 +83,82 @@ _Week 2: What do social scientists do? (2)_
 * Workshop: What is a good social science question?
 * Mandatory reading: TBD
 
-_Week 3: Individual and Structures (1)_
+##### Part 2: Core debates in social sciences
+
+_Week 3: Individuals and Structures_
 * Lecture
 * Class exercises on a specific object: Racism
 * Mandatory reading: TBD
 
-_Week 4: Individual and Structures (2)_
+_Week 4: The Homo Oeconomicus debate: are we "rational"?_
 * Student presentation
-* Class workshop on a specific object: Poverty
+* Class workshop on a specific object: Economic exchange
 * Mandatory reading: TBD
 
-_Week 5: The Homo Oeconomicus debate: are we "rational"? (1)_
+_Week 5: Idealism and Materialism_
 * Lecture
-* Class exercises on a specific object: Educational outcomes (Boudon vs. Bourdieu)
+* Class exercises on a specific object: Economic development
 
-_Week 6: The Homo Oeconomicus debate: are we "rational"? (2)_
-* Student presentation
-* Class workshop on a specific object: Social exchange (Mauss vs. Game theoretical approaches)
-* Mandatory reading: TBD
-
-_Week 7: Idealism and Materialism (1)_
-* Lecture
-* Class exercises on a specific object: Social trust
-* Mandatory reading: TBD
-
-_Week 8: Idealism and Materialism (2)_
-* Student presentation
-* Class workshop on a specific object: Economic development
-* Mandatory reading: TBD
-
-_Week 9: Universality vs. Context (1)_
-* Lecture
-* Class exercises on a specific object: Is Morocco a special country?
-* Mandatory reading: TBD
-
-_Week 10: Universality vs. Context (2)_
+_Week 6: Universalism and context_
 * Student presentation
 * Class workshop on a specific object: Economic rationality
 * Mandatory reading: TBD
 
-_Week 11: Cognitive science: a third way?
+_Week 7: "Behavioral science": a third way?_
 * Lecture
-* Class exercises on a specific object: Folk biology, folk sociology, folk economics
+* Class exercises on a specific object: Social trust
 * Mandatory reading: TBD
 
-_Week 12: Student presentations (1)_
+_MIDTERM_
+Students analyze an article by identifying and discussing the theoretical assumptions and methodological decisions made by the author(s).
 
-_Week 13: Student presentations (2)_
+##### Part 3: Student workshops
 
+_Week 9: Individuals and structures: student workshop_
+* Two student presentations
+* Student workshop: students discuss and debate on the best paradigms and methods to address the research questions of the presenters
+* Mandatory reading: TBD
+
+_Week 10: The Homo Oeconomicus debate: are we "rational"? Student workshop_
+* Two student presentations
+* Student workshop: students discuss and debate on the best paradigms and methods to address the research questions of the presenters
+* Mandatory reading: TBD
+
+_Week 11: Idealism and Materialism: student workshop_
+* Two student presentations
+* Student workshop: students discuss and debate on the best paradigms and methods to address the research questions of the presenters
+* Mandatory reading: TBD
+
+_Week 12: Universality and context: student workshop_
+* Two student presentations
+* Student workshop: students discuss and debate on the best paradigms and methods to address the research questions of the presenters
+* Mandatory reading: TBD
+
+_Week 13: Recap and Q&A_
+* Recap
+* Q\&A with the students
+* Mandatory reading: TBD
+
+_Final exam:_
+Students analyze an article by identifying and discussing the theoretical assumptions and methodological decisions made by the author(s).
+
+
+### Assessment
+
+Your grade comes from four assessments.
+
+**Participation, Contribution & Engagement — 10%**
+
+This assessment covers three main sources of grades, each worth a third. First, every class except the first opens with a short quiz on the previous week's lecture and the current week's readings. Second, students will regularly do in-class exercises, some of which are graded. Finally, students are expected to keep a weekly notebook, where they note things they've noticed and start turning them into possible social science research questions.
+
+**Continuous Assessment — 20%**
+
+This assessment covers the final essay and its oral component. Students write a research essay on a social science question of their choice, relevant to the Moroccan context. The goal is to formulate a precise research question, identify the different paradigms and methods that have been used to tackle it, and explain which they prefer and why. The essay has two components, each worth half the grade: an oral presentation given during one of the workshops, and the written essay itself.
+
+**Midterm Exam — 30%**
+
+Students analyze an article by identifying and discussing the theoretical assumptions and methodological decisions made by the author(s). In-class, pen-and-paper, two hours.
+
+**Final Exam — 40%**
+
+Similar to the midterm: analyzing an assigned text and answering conceptual questions, but covers the whole course. In-class, pen-and-paper, three hours.
