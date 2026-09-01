@@ -66,7 +66,7 @@ _General outline_
 Every class, except for the first, begins with a 5-to-10-minute quiz covering the previous session's material and mandatory readings. 
 
 The first two classes introduce core social science concepts, with hands-on exercises designed to train students in formulating research questions and translating everyday observations into social science research. 
-Following these foundations, ten classes are dedicated to five major social science debates, illustrated with concrete social objects. Each debate spans two sessions: a first session features a lecture introducing the topic with examples and exercises, while later on a second session is a workshop built around student presentations followed by collective deliberation, from which every student writes a short report. Finally, the last session is dedicated to students presenting their final essays.
+Following these foundations, eight classes are dedicated to four major social science debates, illustrated with concrete social objects. Each debate spans two sessions: a first session features a lecture introducing the topic with examples and exercises, while later on a second session is a workshop built around student presentations followed by collective deliberation, from which every student writes a short report. Finally, the last session is dedicated to students presenting their final essays.
 
 
 ### Weekly schedule
