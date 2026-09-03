@@ -96,7 +96,7 @@ _Week 2: What do social scientists do? (2)_
   * Define the scope of a social science question
   * Understand what makes a good social science question
 
-* Mandatory reading: TBD
+* Mandatory reading: Section I and II of the Course Annex "Histoire de la sociologie" (History of sociology)
 
 ##### Part 2: Core debates in social sciences
 
