@@ -111,6 +111,7 @@ _Week 3: Individuals and Structures_
   * Darmon, M. (2009). The fifth element: Social class and the sociology of anorexia. Sociology, 43(4), 717-733.
   * Haushofer, J., & Fehr, E. (2014). On the psychology of poverty. Science, 344(6186), 862–867. https://doi.org/10.1126/science.1232491
   * Introduction + Chapters 1 and 2 from Darmon, M. (2016). La socialisation (3ᵉ éd.). Armand Colin.
+NB: Next week's class will focus on different explanations to explain the role of social class on behavior. While you read, keep this question in the background: why is it that rich and poor people behave differently on so many levels?
 
 _Week 4: The Homo Oeconomicus debate: are we "rational"?_
 * Lecture (30mn)
