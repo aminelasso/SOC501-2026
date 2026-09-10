@@ -102,12 +102,15 @@ _Week 2: What do social scientists do? (2)_
 
 _Week 3: Individuals and Structures_
 * Lecture (30mn)
-* TD: Racism. Students read excerpts from social science papers about racism, extract and compare their underlying assumptions.
+* TD: Poverty. Students read excerpts from social science papers about the effect of social class on behavior, extract and compare their underlying assumptions.
 * Learning outcomes: 
   * Master the Individuals vs. Structures debate in social sciences. 
-  * Learn about different approaches to racism in social sciences.
+  * Learn about different approaches to poverty/social class in social sciences.
   * Practice the extraction of assumptions in social science research and the identification of paradigms.
-* Mandatory reading: TBD
+* Mandatory readings (available on Canvas - File section):
+  * Darmon, M. (2009). The fifth element: Social class and the sociology of anorexia. Sociology, 43(4), 717-733.
+  * Haushofer, J., & Fehr, E. (2014). On the psychology of poverty. Science, 344(6186), 862–867. https://doi.org/10.1126/science.1232491
+  * Introduction + Chapters 1 and 2 from Darmon, M. (2016). La socialisation (3ᵉ éd.). Armand Colin.
 
 _Week 4: The Homo Oeconomicus debate: are we "rational"?_
 * Lecture (30mn)
