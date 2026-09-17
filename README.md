@@ -102,7 +102,7 @@ _Week 2: What do social scientists do? (2)_
 
 _Week 3: Individuals and Structures_
 * Lecture (30mn)
-* TD: Poverty. Students read excerpts from social science papers about the effect of social class on behavior, extract and compare their underlying assumptions.
+* TD: Social class and behavior. Students read excerpts from social science papers about the effect of social class on behavior, extract and compare their underlying assumptions.
 * Learning outcomes: 
   * Master the Individuals vs. Structures debate in social sciences. 
   * Learn about different approaches to poverty/social class in social sciences.
@@ -120,7 +120,14 @@ _Week 4: The Homo Oeconomicus debate: are we "rational"?_
   * Master the Homo Oeconomicus debate in social sciences. 
   * Learn about different approaches to the concept of rationality in social sciences.
   * Practice the extraction of assumptions in social science research and the identification of paradigms.
-* Mandatory reading: Mosheik, M., & Tadelis, S. (2022). Hidden games: The surprising power of game theory to explain irrational human behavior. MIT Press.
+* Mandatory readings: 
+  * Ostrom, E. (1990). Governing the commons: The evolution of institutions for collective action. The Political economy of institutions and decisions. Cambridge ; New York: Cambridge University (Chapter 1: Reflections on the commons + pp. 38-45: the "THREE PUZZLES: SUPPLY, COMMITMENT, AND
+MONITORING" sub-section in Chapter 2) 
+  * Zelizer, V. A. (1978). Human Values and the Market: The Case of Life Insurance and Death in 19th-Century America. American Journal of Sociology, 84(3), 591–610. http://www.jstor.org/stable/2778256 (NB: while this reading mostly addresses the Homo Oeconomicus debate, it is also relevant for the idealism vs. materialism debate: pay attention to the kind of explanations advanced by the author)
+  * Play this game is you've never done it: https://ncase.me/trust/
+* Optional readings: 
+  * Zelizer, V. A. (1989). The social meaning of money:" special monies". American journal of sociology, 95(2), 342-377.
+  * Zelizer, V. A. (2012). How I became a relational economic sociologist and what does that mean?. Politics & society, 40(2), 145-174.
 
 _Week 5: Idealism and Materialism_
 * Lecture (30mn)
