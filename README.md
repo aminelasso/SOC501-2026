@@ -136,7 +136,9 @@ _Week 5: Idealism and Materialism_
   * Master the Idealism vs. Materialism debate in social sciences. 
   * Learn about different approaches to economic development in social sciences.
   * Practice the extraction of assumptions in social science research and the identification of paradigms.
-* Mandatory reading: Baumard, N. (2019). Psychological origins of the Industrial Revolution. Behavioral and Brain Sciences, 42, e189. https://doi.org/10.1017/S0140525X1800211X
+* Mandatory readings: 
+  * Baumard, N. (2019). Psychological origins of the Industrial Revolution. Behavioral and Brain Sciences, 42, e189. https://doi.org/10.1017/S0140525X1800211X
+  * Read the subsection on "The Protestant Ethic and the Spirit of Capitalism" by Max Weber in the Course Annex (around p. 24)
 
 _Week 6: Universalism and context_
 * Lecture (30mn)
