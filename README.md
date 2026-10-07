@@ -149,13 +149,13 @@ _Week 6: Universalism and context_
   * Practice the extraction of assumptions in social science research and the identification of paradigms.
 * Mandatory reading: Olivier de Sardan, J.-P. (2025). Traveling models and practical norms: The misadventures of social engineering, in Africa and beyond. Berghahn Books. https://doi.org/10.3167/9781805398523
 
-_Week 7: Cognitive science: a third way?_
-* Lecture (2h)
+_Week 7: Recap_
+* TD: Discussion on the universality of social emotions and prosocial behavior (2h)
 * Learning outcomes: 
-  * Master the foundations of cognitive science.
-  * Understand the basics of the literature of cognitive
-  * Practice applying cognitive science reasoning to the study of culture.
-* Mandatory reading: Morin, O. (2015). How traditions live and die. Oxford University Press.  
+  * Finish the course on the four core debates.
+* Mandatory readings: 
+  * Sznycer, D., Xygalatas, D., Agey, E., Alami, S., An, X.-F., Ananyeva, K. I., Atkinson, Q. D., Broitman, B. R., Conte, T. J., Flores, C., Fukushima, S., Hitokoto, H., Kharitonov, A. N., Onyishi, C. N., Onyishi, I. E., Romero, P. P., Schrock, J. M., Snodgrass, J. J., Sugiyama, L. S., … Tooby, J. (2018). Cross-cultural invariances in the architecture of shame. Proceedings of the National Academy of Sciences, 115(39), 9702–9707. https://doi.org/10.1073/pnas.1805016115 + the related appendix!
+  * Broesch, T., Crittenden, A. N., Beheim, B. A., Blackwell, A. D., Bunce, J. A., Colleran, H., Hagel, K., Kline, M., McElreath, R., Nelson, R. G., Pisor, A. C., Prall, S., Pretelli, I., Purzycki, B., Quinn, E. A., Ross, C., Scelza, B., Starkweather, K., Stieglitz, J., & Borgerhoff Mulder, M. (2020). Navigating cross-cultural research: Methodological and ethical considerations. Proceedings of the Royal Society B: Biological Sciences, 287(1935), Article 20201245. https://doi.org/10.1098/rspb.2020.1245
 
 _Week 8: MIDTERM_
 Students analyze an article by identifying and discussing the theoretical assumptions and methodological decisions made by the author(s). 2 hours, pen-and-paper.
